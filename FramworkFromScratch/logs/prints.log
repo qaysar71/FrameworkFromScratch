@@ -1,0 +1,5 @@
+11:23:59.074 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x1b6dfd4702d97975
+11:23:59.376 [TestNG-tests-3] INFO  academy.Base - driver is initialize
+11:24:06.676 [TestNG-tests-3] INFO  academy.Base - navigate to HomePage
+11:24:07.045 [TestNG-tests-2] INFO  academy.Base - Successfully navigate
+11:24:09.209 [TestNG-tests-1] INFO  academy.Base - Restricted Users
